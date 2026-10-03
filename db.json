@@ -1,0 +1,54 @@
+{
+  "alunos": [
+    {
+      "id": "1",
+      "nome": "Maria Souza",
+      "email": "maria@escola.com",
+      "cpf": "123.456.789-00",
+      "matricula": "20231001",
+      "data_nascimento": "2007-05-10"
+    },
+    {
+      "nome": "Júlia Fernandes Barros",
+      "email": "julia.frnds@gmail.com",
+      "cpf": "123456789-10",
+      "matricula": "20241094010058",
+      "data_nascimento": "2007-11-07",
+      "id": "F1z5Lym"
+    },
+    {
+      "nome": "João Maria José de Barros",
+      "email": "joaodebarro@gmail.com",
+      "cpf": "109876543-21",
+      "matricula": "20241094010025",
+      "data_nascimento": "2003-03-20",
+      "id": "MNgfmk6"
+    }
+  ],
+  "professores": [
+    {
+      "id": "1",
+      "nome": "Carlos Oliveira",
+      "email": "carlos@escola.com",
+      "cpf": "987.654.321-00",
+      "disciplina": "Programação para Internet",
+      "data_admissao": "2022-03-01"
+    },
+    {
+      "nome": "Italo Neslon Dias",
+      "email": "italodias@gmail.com",
+      "cpf": "456789123-24",
+      "disciplina": "Física",
+      "data_admissao": "2026-08-12",
+      "id": "NypX1VY"
+    },
+    {
+      "nome": "Janaína Silva de Queiroz",
+      "email": "janainaqueiroz@gmail.com",
+      "cpf": "123987456-69",
+      "disciplina": "Matemática",
+      "data_admissao": "2022-05-17",
+      "id": "i2DQ_eR"
+    }
+  ]
+}
